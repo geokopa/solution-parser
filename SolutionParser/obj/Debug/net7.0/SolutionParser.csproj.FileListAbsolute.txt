@@ -1,0 +1,15 @@
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\bin\Debug\net7.0\SolutionParser.exe
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\bin\Debug\net7.0\SolutionParser.deps.json
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\bin\Debug\net7.0\SolutionParser.runtimeconfig.json
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\bin\Debug\net7.0\SolutionParser.dll
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\bin\Debug\net7.0\SolutionParser.pdb
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\SolutionParser.csproj.AssemblyReference.cache
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\SolutionParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\SolutionParser.AssemblyInfoInputs.cache
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\SolutionParser.AssemblyInfo.cs
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\SolutionParser.csproj.CoreCompileInputs.cache
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\SolutionParser.dll
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\refint\SolutionParser.dll
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\SolutionParser.pdb
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\SolutionParser.genruntimeconfig.cache
+C:\Users\gkopa\RiderProjects\SolutionParser\SolutionParser\obj\Debug\net7.0\ref\SolutionParser.dll
