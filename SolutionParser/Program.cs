@@ -1,6 +1,6 @@
 ﻿using System.Xml;
 
-const string solutionPath = @"C:\Users\gkopa\source\repos\pangea-it\Pangea.RegistrationService\src\Pangea.RegistrationService.sln";
+const string solutionPath = @"solution_path.sln";
 const string targetFilePath = @"CustomActionCodeSigning.targets";
 try
 {
